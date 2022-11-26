@@ -25,9 +25,8 @@ In addition, for years I have been acquiring more knowledge, every day..
 
 
 ## Used
-
    <p align="center">
-      <img src="https://github.com/ManuDaSilva/ManuDaSilva/blob/8659315da5ae39e2635e7d2c1e2a6317163e3c72/lua.svg" />
+      <img src="https://github.com/ManuDaSilva/ManuDaSilva/blob/main/lua.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
