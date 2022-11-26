@@ -10,7 +10,7 @@ src="https://i.imgur.com/8cFYELn.png" /></a></h1>
 </p>  
 
 I love learning new things and creating projects that people can enjoy, which is why I started my career creating game servers using my own scripts.
-In addition, for years I have been acquiring more knowledge, every day..
+In addition, for years I have been acquiring more knowledge, every day.
 
 - 🔭 I am currently working on a personal project.
 - 🌱 I am currently learning Python
