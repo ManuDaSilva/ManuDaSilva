@@ -1,0 +1,74 @@
+{
+  "libros": [
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "editorial": "Secker & Warburg",
+      "anio_publicacion": 1949,
+      "valoracion": 4.7
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "editorial": "T. Egerton, Whitehall",
+      "anio_publicacion": 1813,
+      "valoracion": 4.5
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "editorial": "Juan de la Cuesta",
+      "anio_publicacion": 1605,
+      "valoracion": 4.8
+    },
+    {
+      "titulo": "El retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "editorial": "Lippincott's Monthly Magazine",
+      "anio_publicacion": 1890,
+      "valoracion": 4.6
+    },
+    {
+      "titulo": "Crimen y castigo",
+      "autor": "Fyodor Dostoevsky",
+      "editorial": "The Russian Messenger",
+      "anio_publicacion": 1866,
+      "valoracion": 4.9
+    },
+    {
+      "titulo": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "editorial": "J.B. Lippincott & Co.",
+      "anio_publicacion": 1960,
+      "valoracion": 4.4
+    },
+    {
+      "titulo": "El hobbit",
+      "autor": "J.R.R. Tolkien",
+      "editorial": "George Allen & Unwin",
+      "anio_publicacion": 1937,
+      "valoracion": 4.8
+    },
+    {
+      "titulo": "La metamorfosis",
+      "autor": "Franz Kafka",
+      "editorial": "Kurt Wolff Verlag",
+      "anio_publicacion": 1915,
+      "valoracion": 4.3
+    },
+    {
+      "titulo": "Anna Karenina",
+      "autor": "Leo Tolstoy",
+      "editorial": "The Russian Messenger",
+      "anio_publicacion": 1878,
+      "valoracion": 4.7
+    },
+    {
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "editorial": "Editorial Sudamericana",
+      "anio_publicacion": 1963,
+      "valoracion": 4.6
+    }
+  ]
+}
